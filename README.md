@@ -1,0 +1,2 @@
+# MIDAS-CNN-Task
+Task-2 CNN on MNIST
